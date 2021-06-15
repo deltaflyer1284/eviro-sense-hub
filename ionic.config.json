@@ -1,0 +1,8 @@
+{
+  "name": "EviroSenseHub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "60721809"
+}
